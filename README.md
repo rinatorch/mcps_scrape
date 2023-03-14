@@ -1,6 +1,6 @@
 # Ten years of MCPS demographics 🏫
 
-I coded with Python to extract ten years of demographic data for public elementary, middle and high schools within [Montgomery County Public Schools](https://www.montgomeryschoolsmd.org/), the largest public school system in Maryland and one of the largest systems in the United States. With this project, I hope to empower users to analyze and inspect a decade of schools data that had previously been stored in PDFs.
+I coded with Python to extract ten years of demographic data for elementary, middle and high schools within [Montgomery County Public Schools](https://www.montgomeryschoolsmd.org/), the largest public school system in Maryland and one of the largest systems in the United States. With this project, I hope to empower users to analyze and inspect a decade of schools data that had previously been stored in PDFs.
 
 ## How MCPS keeps the data
 
