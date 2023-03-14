@@ -1,10 +1,8 @@
 # Montgomery County Public Schools PDF Scrape
 
-In this project, I coded with Python to extract ten years of demographic data for public elementary, middle and high schools in within Montgomery County Public Schools, the largest public school system in Maryland and one of the largest systems in the United States. With this project, I hope to empower users to analyze and inspect a decade of schools data that had previously been stored in PDFs.
+In this project, I coded with Python to extract ten years of demographic data for public elementary, middle and high schools in within [Montgomery County Public Schools](https://www.montgomeryschoolsmd.org/), the largest public school system in Maryland and one of the largest systems in the United States. With this project, I hope to empower users to analyze and inspect a decade of schools data that had previously been stored in PDFs.
 
 ## How MCPS keeps the data
-
-[GitHub Pages](https://pages.github.com/).
 
 MCPS publishes [annual reports](https://ww2.montgomeryschoolsmd.org/departments/sharedaccountability/glance/index.aspx) in PDFs, with each one measuring about 500 pages long. Over the past ten years, each annual report included several tables on demographic information broken down by school, including information on student population, race, sex and free and reduced price meal recipients. There is a ton of information packed in each PDF, but this project zeroed in on these specific demographic tables.
 
